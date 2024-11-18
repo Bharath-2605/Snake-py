@@ -14,7 +14,7 @@ Install all the requirements used in this code and run it without errors.
 
 After successful execution using the live cam:
 - The hand gets recognized.
-- Food appears in different locations without touching the tail.
+- Food appears in different locations, Eat the Food  without touching the tail.
 
 Try to eat as much food as you can. If you touch the tail, that's it: GAME OVER.  
 You can restart the game by pressing the "R" key on the keyboard.
@@ -24,4 +24,7 @@ You can Quit the game by pressing the "E" key on the keyboard.
 # Hope you like the project.<br>
 # Feel free to download the source code and follow for new projects.<br>
 # Don't forget to give a star if you like the project.<b>
+
+
+
 
