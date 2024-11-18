@@ -4,7 +4,7 @@
 I am Bollineni Bharath <br>
 This project is mainly using Python and OpenCV.<br></b>
 
-# LiveSNAKEGAME
+# Live_SNAKEGAME
 
 A game built using Python and computer vision (OpenCV).
 This project can make your CV/resume solid and impressive.
@@ -22,7 +22,6 @@ You can Quit the game by pressing the "E" key on the keyboard.
 
 <b>
 # Hope you like the project.<br>
-# Feel free to download the source code and follow for new projects.<br>
 # Don't forget to give a star if you like the project.<b>
 
 
