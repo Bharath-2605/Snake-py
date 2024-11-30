@@ -1,5 +1,5 @@
 # Snake Project
-# Snake Project
+
 <b>Hey guys..!<br>
 I am Bollineni Bharath <br>
 This project is mainly using Python and OpenCV.<br></b>
