@@ -20,9 +20,7 @@ Try to eat as much food as you can. If you touch the tail, that's it: GAME OVER.
 You can restart the game by pressing the "R" key on the keyboard.
 You can Quit the game by pressing the "E" key on the keyboard.
 
-<b>
-# Hope you like the project.<br>
-# Don't forget to give a star if you like the project.<b>
+
 
 
 
