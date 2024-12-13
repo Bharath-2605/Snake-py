@@ -13,11 +13,15 @@ Start executing the `snakegame.py` file in Python compilers like Spyder, VSCode,
 Install all the requirements used in this code and run it without errors ✅.
 
 After successful execution using the live cam 📸:
+
 - 🖐️The hand gets recognized.
+  
 - 🍎Food appears in different locations, Eat the Food  without touching the tail.
 
-Try to eat as much food as you can. If you touch the tail, that's it: GAME OVER.  
+Try to eat as much food as you can. If you touch the tail, that's it: GAME OVER. 
+
 You can 🔄 restart the game by pressing the "R" key on the keyboard.
+
 You can ❌ Quit the game by pressing the "E" key on the keyboard.
 
 
