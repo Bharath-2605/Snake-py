@@ -7,6 +7,7 @@ This project is mainly using Python and OpenCV.<br></b>
 # Live_SNAKEGAME🕹️
 
 A game built using Python 🐍 and computer vision 🎥 (OpenCV).
+
 This project can make your CV/resume solid and impressive 💼✨.
 
 Start executing the `snakegame.py` file in Python compilers like Spyder, VSCode, or PyCharm.
